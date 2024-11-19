@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRABAJODECURSO", "TRABAJODECURSO\TRABAJODECURSO.csproj", "{E58121EB-B05A-4130-AB1C-B2D118ED4E4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TRABAJODECURSO", "TRABAJODECURSO\TRABAJODECURSO.csproj", "{E58121EB-B05A-4130-AB1C-B2D118ED4E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmAñadirReservas", "FrmAñadirReservas\FrmAñadirReservas.csproj", "{34465FAD-C945-4CA2-A723-68DA3FBD6FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmEditarReservas", "FrmEditarReservas\FrmEditarReservas.csproj", "{5CB30DC0-17D9-4205-BDF5-6AAF5C92772E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{E58121EB-B05A-4130-AB1C-B2D118ED4E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E58121EB-B05A-4130-AB1C-B2D118ED4E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E58121EB-B05A-4130-AB1C-B2D118ED4E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34465FAD-C945-4CA2-A723-68DA3FBD6FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34465FAD-C945-4CA2-A723-68DA3FBD6FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34465FAD-C945-4CA2-A723-68DA3FBD6FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34465FAD-C945-4CA2-A723-68DA3FBD6FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB30DC0-17D9-4205-BDF5-6AAF5C92772E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB30DC0-17D9-4205-BDF5-6AAF5C92772E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB30DC0-17D9-4205-BDF5-6AAF5C92772E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB30DC0-17D9-4205-BDF5-6AAF5C92772E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
